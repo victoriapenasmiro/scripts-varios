@@ -1,5 +1,5 @@
-﻿$InputFilename = Get-Content 'C:\Users\VictoriaPeñas\Desktop\Prosegur_BR_procesado.csv'
- $OutputFilenamePattern = 'Prosegur_BR_procesado_'
+﻿$InputFilename = Get-Content 'C:\Users\VictoriaPeñas\Desktop\fichero.csv'
+ $OutputFilenamePattern = 'nombre_ficheros_'
  $LineLimit = 5000
  $line = 0
  $i = 0
